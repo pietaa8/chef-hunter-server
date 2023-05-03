@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Chef Sanjeev Kapoor",
+      "experience": "30 years",
+      "numRecipes": 500,
+      "likes": 10000,
+      "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is the founder of Khana Khazana, a cookery show that aired on Zee TV from 1993 to 2000. He has written several cookbooks and is the recipient of numerous culinary awards.",
+      "recipeImages": ["sanjeev-kapoor-recipe1.jpg", "sanjeev-kapoor-recipe2.jpg", "sanjeev-kapoor-recipe3.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Chef Vikas Khanna",
+      "experience": "20 years",
+      "numRecipes": 300,
+      "likes": 8000,
+      "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of MasterChef India. He has written over 35 cookbooks and has been honored with several awards for his culinary contributions.",
+      "recipeImages": ["vikas-khanna-recipe1.jpg", "vikas-khanna-recipe2.jpg", "vikas-khanna-recipe3.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Chef Ranveer Brar",
+      "experience": "15 years",
+      "numRecipes": 200,
+      "likes": 5000,
+      "bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, author, and television personality. He has hosted several cookery shows on TV and is the author of several cookbooks. He is also the founder of The Great Indian Food Trip, a culinary exploration of India.",
+      "recipeImages": ["ranveer-brar-recipe1.jpg", "ranveer-brar-recipe2.jpg", "ranveer-brar-recipe3.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Chef Kunal Kapur",
+      "experience": "18 years",
+      "numRecipes": 250,
+      "likes": 6000,
+      "bio": "Kunal Kapur is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cookery shows on TV and is the author of two cookbooks. He is also the founder of Diya, a modern Indian restaurant in Dubai.",
+      "recipeImages": ["kunal-kapur-recipe1.jpg", "kunal-kapur-recipe2.jpg", "kunal-kapur-recipe3.jpg"]
+    },
+    {
+      "id": 5,
+      "name": "Chef Ajay Chopra",
+      "experience": "12 years",
+      "numRecipes": 150,
+      "likes": 4000,
+      "bio": "Ajay Chopra is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cookery shows on TV and is the author of one cookbook. He is"}]
+  
