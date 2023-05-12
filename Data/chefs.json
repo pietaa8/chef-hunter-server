@@ -7,7 +7,19 @@
       "numRecipes": 500,
       "likes": 10000,
       "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is the founder of Khana Khazana, a cookery show that aired on Zee TV from 1993 to 2000. He has written several cookbooks and is the recipient of numerous culinary awards.",
-      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]
+      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+      "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
     },
     {
       "id": 2,
@@ -17,7 +29,19 @@
       "numRecipes": 300,
       "likes": 8000,
       "bio": "Vikas Khanna is an Indian-American chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of MasterChef India. He has written over 35 cookbooks and has been honored with several awards for his culinary contributions.",
-      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]
+      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+      "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
     },
     {
       "id": 3,
@@ -27,7 +51,19 @@
       "numRecipes": 200,
       "likes": 5000,
       "bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, author, and television personality. He has hosted several cookery shows on TV and is the author of several cookbooks. He is also the founder of The Great Indian Food Trip, a culinary exploration of India.",
-      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]
+      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+      "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
     },
     {
       "id": 4,
@@ -37,7 +73,19 @@
       "numRecipes": 250,
       "likes": 6000,
       "bio": "Kunal Kapur is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cookery shows on TV and is the author of two cookbooks. He is also the founder of Diya, a modern Indian restaurant in Dubai.",
-      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]
+      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+      "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
     },
     {
       "id": 5,
@@ -47,7 +95,19 @@
       "numRecipes": 150,
       "likes": 4000,
       "bio": "Ajay Chopra is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cookery shows on TV and is the author of one cookbook. He is",
-      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]
+      "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+      "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
     },
       {
         "id": 6,
@@ -57,7 +117,20 @@
         "numRecipes": 150,
         "likes": 4000,
         "bio": "Prem Chopra is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cookery shows on TV and is the author of one cookbook. He is",
-        "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"]}
+        "recipeImages": ["https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1884&q=80,https://images.unsplash.com/photo-1653850280260-aa3b9e00b230?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80,https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"],
+        "recipeName1": "Butter Chicken",
+      "ingredients1": "2 lbs boneless chicken, cut into bite-sized pieces\n2 onions, finely chopped\n3 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n1/2 cup plain yogurt\n1 tsp garam masala\n1 tsp coriander powder\n1 tsp cumin powder\n1/2 tsp turmeric powder\n1/2 tsp red chili powder\nSalt to taste\n1/2 cup unsalted butter\n1 cup heavy cream\nChopped fresh coriander leaves for garnish",
+      "method1": "1. In a large bowl, mix together yogurt, garam masala, coriander powder, cumin powder, turmeric powder, red chili powder, and salt.\n2. Add chicken pieces to the marinade and let them sit for at least 30 minutes.\n3. Melt butter in a large pan over medium heat.\n4. Add onions and cook until they are soft and translucent.\n5. Add ginger and garlic paste and cook for another 2 minutes.\n6. Add chopped tomatoes and cook until they are soft and pulpy.\n7. Add marinated chicken pieces and cook until they are browned on all sides.\n8. Add heavy cream and simmer for 10-15 minutes, stirring occasionally.\n9. Garnish with fresh coriander leaves and serve hot.",
+      "rating1": 4.8,
+      "recipeName2": "Chana Masala",
+      "ingredients2": "2 cups chickpeas, soaked overnight and boiled until tender\n2 onions, finely chopped\n3 tomatoes, chopped\n2 green chilies, chopped\n1 tsp ginger paste\n1 tsp garlic paste\n2 tsp ground cumin\n2 tsp ground coriander\n1 tsp garam masala\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method2": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 2-3 minutes.\n4. Add chopped tomatoes and cook until they are soft and pulpy.\n5. Add ground cumin, ground coriander, garam masala, turmeric powder, and salt, and cook for another minute.\n6. Add boiled chickpeas and mix well. Add enough water to make a thick gravy.\n7. Cover and simmer for 10-15 minutes.\n8. Garnish with fresh coriander leaves and serve hot with rice or naan.",
+      "rating2": 4.5,
+      "recipeName3": "Palak Paneer",
+      "ingredients3": "2 cups spinach, chopped\n1 cup paneer, cubed\n1 onion, chopped\n2 tomatoes, chopped\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 green chilies, chopped\n1 tsp cumin powder\n1 tsp coriander powder\n1/2 tsp turmeric powder\nSalt to taste\n2 tbsp vegetable oil\nChopped fresh coriander leaves for garnish",
+      "method3": "1. Heat oil in a large pan over medium heat.\n2. Add onions and cook until softened and translucent.\n3. Add ginger and garlic paste, and green chilies, and cook for another 20 minute.",
+      "rating3":4.6
+      }
 
     ]
   
